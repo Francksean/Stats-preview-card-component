@@ -1,0 +1,63 @@
+
+
+body{
+  background-color: hsl(233, 47%, 7%);
+}
+.site{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 150px 0px 150px 200px;
+  border-radius: 30px 30px 30px 30px;
+}
+p{
+  color: white;
+}
+.contenugauche{
+  padding-left: 50px;
+}
+.grandtitre{
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+  width: 390px;
+}
+.gauche{
+  background-color:  hsl(244, 38%, 16%);
+  height: 400px;
+  width: 600px;
+}
+.image{
+  width: 100%;
+  height: 400px;
+  width: 500px;
+}
+.insights{
+ color: hsl(277, 64%, 61%);
+}
+.textecentral{
+  width: 370px;
+  font-size: 15px;
+  font-family: 'Lexend Deca', sans-serif;
+}
+.stats{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 45px;
+}
+.numbers{
+  font-weight: 900;
+  font-size: 20px;
+  height: 25px;
+  font-family: 'Inter', sans-serif;
+}
+.stats-elements{
+  align-items: center;
+}
+.items{
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 16px;
+  padding-top: 2px;
+  height: 15px;
+}
